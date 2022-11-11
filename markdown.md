@@ -37,6 +37,7 @@ Párrafo 2
 Salto de línea
 
 ##Insertar imagenes
+
 ![Central Cee](https://m.media-amazon.com/images/I/71ygELTHJAL._SY355_.jpg)
 
 ##Insertar enlaces
@@ -59,7 +60,9 @@ console.log("Hello world!");
 |B1|B2|
 
 ##Editores en Markdown
+
 [Editor de Markdown]<https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/editores-markdown/>
 
 ##Otras referencias sobre Markdown
+
 [Referencias sobre markdown]<https://learn.microsoft.com/es-es/contribute/markdown-reference>
